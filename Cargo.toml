@@ -1,0 +1,7 @@
+[package]
+authors = ["Jorge Aparicio <jorge@japaric.io>"]
+name = "photon-core"
+version = "0.1.0"
+
+[dependencies]
+static-ref = "0.1.0"
