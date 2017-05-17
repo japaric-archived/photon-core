@@ -1,6 +1,6 @@
 # `photon-core`
 
-> Concurrency primitives for the Particle photon
+> Concurrency primitives for the [Particle] photon
 
 [Particle]: https://particle.io
 
