@@ -2,6 +2,7 @@
 
 #![deny(missing_docs)]
 #![feature(const_fn)]
+#![feature(const_unsafe_cell_new)]
 #![no_std]
 
 extern crate static_ref;
